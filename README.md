@@ -11,14 +11,11 @@ Download the Radaro driver app to manage jobs, assist in navigation & communicat
 
 Our driver app allows you to:
 
-• Manage your jobs directly from your iPhone
-• Easily navigate to the location of your next job.
+- Manage your jobs directly from your iPhone.
+- Easily navigate to the location of your next job.
+- Continued use of GPS running in the background can dramatically decrease battery life.
 
-* Continued use of GPS running in the background can dramatically decrease battery life
-
-My role
-
-iOS developer communicating with business team, understanding requirements and planning.
+  ![alt text](radaro.png)
 
 Technologies:
 
@@ -36,9 +33,7 @@ LOBSTR - simple & secure Stellar wallet.
 LOBSTR is a leading platform for managing Stellar Lumens and other assets issued on the Stellar network.
 Discover new tokens, hold, and send any asset, track prices and stay up to date with markets all in one simple and secure app.
 
-My role
-
-iOS developer communicating with business team, understanding requirements and planning.
+  ![alt text](lobstr.png)
 
 Technologies:
 
@@ -53,9 +48,7 @@ Technologies:
 
 Your ultimate guide to navigating the world of cryptocurrencies with ease and confidence. Whether you’re a seasoned enthusiast or just starting your crypto journey, our app brings together the best tools and resources to help you explore, understand, and interact with the crypto ecosystem.
 
-My role
-
-iOS developer communicating with business team, understanding requirements and planning.
+  ![alt text](coindisco.png)
 
 Technologies:
 
