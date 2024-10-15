@@ -1,7 +1,7 @@
 # Kanstantsin Klinau portfolio
 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
 
-Radaro
+# [Radaro](https://apps.apple.com/au/app/radaro/id1131126957)
 
 Radaro provides your business with driver tracking and customer notifications just like Uber and Domino’s.
 
@@ -22,15 +22,15 @@ iOS developer communicating with business team, understanding requirements and p
 
 Technologies:
 
-* Swift
-* RxSwift
-* MVVM
-* Autolayout
-* Promise
-* Alamofire
-* Bitrise
+- Swift
+- RxSwift
+- MVVM
+- Autolayout
+- Promise
+- Alamofire
+- Bitrise
 
-Lobst
+# [Lobstr](https://apps.apple.com/us/app/lobstr-stellar-lumens-wallet/id1404357892)
 
 LOBSTR - simple & secure Stellar wallet.
 LOBSTR is a leading platform for managing Stellar Lumens and other assets issued on the Stellar network.
@@ -42,14 +42,14 @@ iOS developer communicating with business team, understanding requirements and p
 
 Technologies:
 
-* Swift
-* Objective C
-* VIPER
-* Autolayout
-* NSURLSession
-* Bitrise
+- Swift
+- Objective C
+- VIPER
+- Autolayout
+- NSURLSession
+- Bitrise
 
-Coindisco
+# [Coindisco](https://apps.apple.com/us/app/coindisco/id6445888906)
 
 Your ultimate guide to navigating the world of cryptocurrencies with ease and confidence. Whether you’re a seasoned enthusiast or just starting your crypto journey, our app brings together the best tools and resources to help you explore, understand, and interact with the crypto ecosystem.
 
@@ -59,9 +59,9 @@ iOS developer communicating with business team, understanding requirements and p
 
 Technologies:
 
-* Swift
-* MVVM
-* CoreData
-* Autolayout
-* Moya
-* Bitrise
+- Swift
+- MVVM
+- CoreData
+- Autolayout
+- Moya
+- Bitrise
