@@ -20,45 +20,36 @@ My role
 
 iOS developer communicating with business team, understanding requirements and planning.
 
-Technologies
+Technologies:
 
-
-Swift
-RxSwift
-MVVM
-Autolayout
-Promise
-Alamofire
-Bitrise
-
+* Swift
+* RxSwift
+* MVVM
+* Autolayout
+* Promise
+* Alamofire
+* Bitrise
 
 Lobst
 
 LOBSTR - simple & secure Stellar wallet.
-
-
 LOBSTR is a leading platform for managing Stellar Lumens and other assets issued on the Stellar network.
-
-
 Discover new tokens, hold, and send any asset, track prices and stay up to date with markets all in one simple and secure app.
-
 
 My role
 
 iOS developer communicating with business team, understanding requirements and planning.
 
-Technologies
+Technologies:
 
-
-Swift
-Objective C
-VIPER
-Autolayout
-NSURLSession
-Bitrise
+* Swift
+* Objective C
+* VIPER
+* Autolayout
+* NSURLSession
+* Bitrise
 
 Coindisco
-
 
 Your ultimate guide to navigating the world of cryptocurrencies with ease and confidence. Whether you’re a seasoned enthusiast or just starting your crypto journey, our app brings together the best tools and resources to help you explore, understand, and interact with the crypto ecosystem.
 
@@ -66,12 +57,11 @@ My role
 
 iOS developer communicating with business team, understanding requirements and planning.
 
-Technologies
+Technologies:
 
-
-Swift
-MVVM
-CoreData
-Autolayout
-Moya
-Bitrise
+* Swift
+* MVVM
+* CoreData
+* Autolayout
+* Moya
+* Bitrise
