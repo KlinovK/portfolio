@@ -1,25 +1,10 @@
-Kanstantsin Klinau Portfolio
+# Kanstantsin Klinau Portfolio
 
-Pet Projects
-
-Here are some of my personal projects that showcase my skills and passion for iOS development:
-
-
-TopPizza: A sample food delivery app built with Swift.
-
-https://github.com/KlinovK/TopPizza
-
-
-CryptoTracker: A lightweight cryptocurrency price tracker using SwiftUI for real-time market updates.
-
-https://github.com/KlinovK/crypto-tracker
-
-
-Professional Projects
+# Professional Projects
 
 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
 
-Radaro
+## Radaro
 
 Radaro provides your business with driver tracking and customer notifications just like Uber and Domino’s.
 
@@ -82,3 +67,15 @@ Technologies:
 - Autolayout
 - Moya
 - Bitrise
+
+# Pet Projects
+
+Here are some of my personal projects that showcase my skills and passion for iOS development:
+
+## TopPizza: A sample food delivery app built with Swift.
+
+https://github.com/KlinovK/TopPizza
+
+## CryptoTracker: A lightweight cryptocurrency price tracker using SwiftUI for real-time market updates.
+
+https://github.com/KlinovK/crypto-tracker
