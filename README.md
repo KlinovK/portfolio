@@ -1,7 +1,25 @@
-# Kanstantsin Klinau portfolio
+Kanstantsin Klinau Portfolio
+
+Pet Projects
+
+Here are some of my personal projects that showcase my skills and passion for iOS development:
+
+
+TopPizza: A sample food delivery app built with Swift.
+
+https://github.com/KlinovK/TopPizza
+
+
+CryptoTracker: A lightweight cryptocurrency price tracker using SwiftUI for real-time market updates.
+
+https://github.com/KlinovK/crypto-tracker
+
+
+Professional Projects
+
 👋 Hi! I'm a self-taught iOS Engineer. Here's a bit of what I've been working on.
 
-# [Radaro](https://apps.apple.com/au/app/radaro/id1131126957)
+Radaro
 
 Radaro provides your business with driver tracking and customer notifications just like Uber and Domino’s.
 
@@ -11,9 +29,15 @@ Download the Radaro driver app to manage jobs, assist in navigation & communicat
 
 Our driver app allows you to:
 
-- Manage your jobs directly from your iPhone.
-- Easily navigate to the location of your next job.
-- Continued use of GPS running in the background can dramatically decrease battery life.
+Manage your jobs directly from your iPhone.
+
+
+
+Easily navigate to the location of your next job.
+
+
+
+Continued use of GPS running in the background can dramatically decrease battery life.
 
   ![alt text](radaro.png)
 
