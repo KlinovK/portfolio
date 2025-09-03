@@ -80,6 +80,6 @@ https://github.com/KlinovK/TopPizza
 
 https://github.com/KlinovK/crypto-tracker
 
-## BlueChipsObserver: BlueChipsObserver: A lightweight project built with SwiftUI, providing real-time market analysis for Bitcoin (BTC) and Ethereum (ETH) on iOS devices.
+## BlueChipsObserver: A lightweight project built with SwiftUI, providing real-time market analysis for Bitcoin (BTC) and Ethereum (ETH) on iOS devices.
 
 https://github.com/KlinovK/BlueChipsObserver
