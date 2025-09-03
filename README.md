@@ -79,3 +79,7 @@ https://github.com/KlinovK/TopPizza
 ## CryptoTracker: A lightweight cryptocurrency price tracker using SwiftUI for real-time market updates.
 
 https://github.com/KlinovK/crypto-tracker
+
+## BlueChipsObserver: BlueChipsObserver: A lightweight project built with SwiftUI, providing real-time market analysis for Bitcoin (BTC) and Ethereum (ETH) on iOS devices.
+
+https://github.com/KlinovK/BlueChipsObserver
