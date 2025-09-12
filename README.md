@@ -83,3 +83,7 @@ https://github.com/KlinovK/crypto-tracker
 ## BlueChipsObserver: A lightweight project built with SwiftUI, providing real-time market analysis for Bitcoin (BTC) and Ethereum (ETH) on iOS devices.
 
 https://github.com/KlinovK/BlueChipsObserver
+
+## DOCREADER: A lightweight iOS app for effortless document scanning and management. Built with SwiftUI's MVP architecture for clean, reactive UI, and powered by Apple's VisionKit framework for high-quality document capture. Scanned documents are securely stored in a local SwiftData database, allowing users to preview them as images or delete as needed.
+
+https://github.com/KlinovK/ai-doc-reader
