@@ -87,3 +87,6 @@ https://github.com/KlinovK/BlueChipsObserver
 ## DOCREADER: A lightweight iOS app for effortless document scanning and management. Built with SwiftUI's MVP architecture for clean, reactive UI, and powered by Apple's VisionKit framework for high-quality document capture. Scanned documents are securely stored in a local SwiftData database, allowing users to preview them as images or delete as needed.
 
 https://github.com/KlinovK/ai-doc-reader
+
+## SpeechToText : A sleek iOS app that transforms speech into real-time AI conversations. Built with SwiftUI and a custom TCA (The Composable Architecture) implementation for a reactive, modular design. The app leverages Apple’s Speech framework for on-device transcription and integrates with local LLMs via Ollama to enable private, offline-friendly AI chat. Featuring a futuristic glassmorphic UI with live recording feedback, smooth chat animations, and streaming responses.
+
